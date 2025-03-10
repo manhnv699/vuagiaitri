@@ -1,0 +1,60 @@
+[
+  {
+    "server": 1,
+    "type": "footballs",
+    "index": "https://bit.ly/tiengruoi",
+    "api": "https://api.vebo.xyz/api",
+    "pathTournament": "/tournament",
+    "pathTournamentDetail": "/tournament/featured/{idTournament}",
+    "pathFeatured": "/match/featured",
+    "pathMatchDetail": "/match/{idMatch}/meta",
+    "pathNewsDetail": "/news/xoilac/detail/{idMatch}",
+    "pathList": "/news/xoilac/list/{page}",
+    "pathHighlight": "/news/xoilac/list/highlight/{page}",
+    "pathXemlai": "/news/xoilac/list/xemlai/{page}",
+    "tournaments": [
+      {
+        "id": "fO9g2hj",
+        "slug": "ngoai-hang-anh",
+        "name": "Ngoại hạng anh",
+        "thumbnailVertical": "https://icon2.cleanpng.com/20190117/ilw/kisspng-logo-football-dream-league-soccer-graphic-design-t-1713909214181.webp",
+        "thumbnailHorizontal": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png"
+      },
+      {
+        "id": "hJx1pjG",
+        "slug": "la-liga",
+        "name": "La Liga",
+        "thumbnailVertical": "https://sportiger.de/cdn/shop/files/original-la-liga-logo-24-25-197548.png",
+        "thumbnailHorizontal": "https://1000logos.net/wp-content/uploads/2019/01/Spanish-La-Liga-Logo.jpg"
+      },
+      {
+        "id": "MYPDb0n",
+        "slug": "serie-a",
+        "name": "Serie A",
+        "thumbnailVertical": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png",
+        "thumbnailHorizontal": "https://logolook.net/wp-content/uploads/2023/11/Italian-Serie-A-TIM-Logo.png"
+      },
+      {
+        "id": "HBZPhLw",
+        "slug": "champions-league",
+        "name": "Champions League",
+        "thumbnailVertical": "https://banner2.cleanpng.com/20180414/ple/avfubc4uq.webp",
+        "thumbnailHorizontal": "https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg"
+      },
+      {
+        "id": "LZy2L17",
+        "slug": "bundesliga",
+        "name": "Bundesliga",
+        "thumbnailVertical": "https://i.pinimg.com/736x/93/4f/4f/934f4f1f690db4d1988f95d3a03c0995.jpg",
+        "thumbnailHorizontal": "https://logowik.com/content/uploads/blog/bundesliga-football-clubs-and-logos3600.logowik.com.webp"
+      },
+      {
+        "id": "sZhvIYu",
+        "slug": "ligue-1",
+        "name": "Ligue 1",
+        "thumbnailVertical": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ligue1_logo.png",
+        "thumbnailHorizontal": "https://1000logos.net/wp-content/uploads/2019/01/French-Ligue-1-Logo-2020-1.png"
+      }
+    ]
+  }
+]

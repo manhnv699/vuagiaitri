@@ -3,6 +3,8 @@
     "server": 1,
     "type": "footballs",
     "index": "https://bit.ly/tiengruoi",
+    "tonghop":"cakeo",
+    "bongda":"xoilac",
     "api": "https://api.vebo.xyz/api",
     "pathTournament": "/tournament",
     "pathTournamentDetail": "/tournament/featured/{idTournament}",

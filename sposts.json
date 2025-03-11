@@ -9,6 +9,7 @@
     "pathTournament": "/tournament",
     "pathTournamentDetail": "/tournament/featured/{idTournament}",
     "pathFeatured": "/match/featured",
+    "apiLiveBongDa": "https://br.vebo.xyz/api/match/live",
     "pathMatchDetail": "/match/{idMatch}/meta",
     "pathNewsDetail": "/news/xoilac/detail/{idMatch}",
     "pathList": "/news/xoilac/list/{page}",

@@ -6,6 +6,8 @@
     "tonghop": "cakeo",
     "bongda": "xoilac",
     "api": "https://api.vebo.xyz/api",
+    "apiCaKeo":"https://api.cakeo.xyz",
+    "pathCaKeoLive":"/match/live",
     "pathTournament": "/tournament",
     "pathTournamentDetail": "/tournament/featured/{idTournament}",
     "pathFeatured": "/match/featured",

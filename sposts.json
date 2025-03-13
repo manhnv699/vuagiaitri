@@ -112,6 +112,20 @@
         "thumbnailHorizontal": "https://cdn.mos.cms.futurecdn.net/c6nfDmk7nEFkdMpAQYzEK4-1000-80.jpg"
       },
       {
+        "id": "hy6WYYz",
+        "slug": "europa-league",
+        "name": "Europa League",
+        "thumbnailVertical": "https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png",
+        "thumbnailHorizontal": "https://editorial.uefa.com/resources/026f-13ac67eab521-56e71180e372-1000/group_stage_draw_for_uefa_europa_league_in_istanbul.jpeg"
+      },
+      {
+        "id": "VQ1tTrC",
+        "slug": "europa-conference-league",
+        "name": "Europa Conference League",
+        "thumbnailVertical": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2467.png",
+        "thumbnailHorizontal": "https://groundhopperguides.com/wp-content/uploads/2021/03/UECL.png"
+      },      
+      {
         "id": "LZy2L17",
         "slug": "bundesliga",
         "name": "Bundesliga",

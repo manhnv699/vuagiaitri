@@ -23,63 +23,72 @@
         "slug": "basketball",
         "name": "Bóng rổ",
         "thumbnailVertical": "https://www.muraldecal.com/en/img/asfs355-jpg/folder/products-listado-merchanthover/stickers-nba.jpg",
-        "thumbnailHorizontal": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-04/All-NBA%20040724.jpeg?itok=1t_AJEj0"
+        "thumbnailHorizontal": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-04/All-NBA%20040724.jpeg?itok=1t_AJEj0",
+        "textImage": "🏀"
       },
       {
         "id": "tab-s-volleyball",
         "slug": "volleyball",
         "name": "Bóng chuyền",
         "thumbnailVertical": "https://thumbs.dreamstime.com/b/volleyball-championship-banner-blank-template-sport-game-club-banners-ball-paint-ink-brushstrokes-stains-half-tone-214593247.jpg",
-        "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2023/11/Pembroke-Volleyball-Tournament-Event-Header-Image.jpg"
+        "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2023/11/Pembroke-Volleyball-Tournament-Event-Header-Image.jpg",
+        "textImage": "🏐"
       },
       {
         "id": "tab-s-badminton",
         "slug": "badminton",
         "name": "Cầu lông",
         "thumbnailVertical": "https://img.freepik.com/premium-vector/badminton-logo-design-vector-badminton-championship-icon_630259-44.jpg",
-        "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2024/01/Pembroke-Generic-Badminton-Tournament-Web-Event-Header.jpg"
+        "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2024/01/Pembroke-Generic-Badminton-Tournament-Web-Event-Header.jpg",
+        "textImage": "🏸"
       },
       {
         "id": "tab-s-tennis",
         "slug": "tennis",
         "name": "Quần vợt",
         "thumbnailVertical": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/tennis-tournament-flyer-design-template-293f32593fbaabf09d86fd83f6610e1f_screen.jpg?ts=1694973641",
-        "thumbnailHorizontal": "https://wallpapercat.com/w/full/5/6/2/49341-2048x1257-desktop-hd-tennis-background.jpg"
+        "thumbnailHorizontal": "https://wallpapercat.com/w/full/5/6/2/49341-2048x1257-desktop-hd-tennis-background.jpg",
+        "textImage": "🎾"
       },
       {
         "id": "tab-s-wwe",
         "slug": "wwe",
         "name": "WWE",
         "thumbnailVertical": "https://c4.wallpaperflare.com/wallpaper/366/822/448/video-game-wwe-2k17-brock-lesnar-wwe-wallpaper-preview.jpg",
-        "thumbnailHorizontal": "https://i.ebayimg.com/images/g/1oQAAOSw7OdloXBv/s-l1200.jpg"
+        "thumbnailHorizontal": "https://i.ebayimg.com/images/g/1oQAAOSw7OdloXBv/s-l1200.jpg",
+        "textImage": "🏀"
       },
       {
         "id": "tab-s-esports",
         "slug": "esports",
         "name": "Esports",
         "thumbnailVertical": "https://i.pinimg.com/736x/1a/ba/05/1aba0578282a231f071da5330b7b48fa.jpg",
-        "thumbnailHorizontal": "https://wallpapers.com/images/hd/1920-x-1080-hd-gaming-wncpxf9w45vlguif.jpg"
+        "thumbnailHorizontal": "https://wallpapers.com/images/hd/1920-x-1080-hd-gaming-wncpxf9w45vlguif.jpg",
+        "textImage": "🎮"
       },
       {
         "id": "tab-s-race",
         "slug": "race",
         "name": "Đua xe",
         "thumbnailVertical": "https://wallpapercave.com/wp/wp12317427.jpg",
-        "thumbnailHorizontal": "https://wallpapercat.com/w/full/d/e/c/608130-1920x1080-desktop-full-hd-car-race-background-image.jpg"
+        "thumbnailHorizontal": "https://wallpapercat.com/w/full/d/e/c/608130-1920x1080-desktop-full-hd-car-race-background-image.jpg",
+        "textImage": "🏎️"
       },
       {
         "id": "tab-s-pool",
         "slug": "pool",
         "name": "Bi-a",
         "thumbnailVertical": "https://i.pinimg.com/736x/a1/15/d5/a115d5067ac7b2eae8bbe2aef7ac6321.jpg",
-        "thumbnailHorizontal": "https://png.pngtree.com/background/20230526/original/pngtree-billiard-table-with-colorful-balls-sitting-on-top-picture-image_2744335.jpg"
+        "thumbnailHorizontal": "https://png.pngtree.com/background/20230526/original/pngtree-billiard-table-with-colorful-balls-sitting-on-top-picture-image_2744335.jpg",
+        "textImage": "🎱"
       },
       {
         "id": "tab-s-other",
         "slug": "other",
         "name": "Khác",
         "thumbnailVertical": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Simone_Jardim_and_Lucy_Kovalova.jpg/300px-Simone_Jardim_and_Lucy_Kovalova.jpg",
-        "thumbnailHorizontal": "https://thumbs.dreamstime.com/b/two-pickleball-paddles-pickleball-court-net-shadow-colorful-composition-laying-near-33216831.jpg"
+        "thumbnailHorizontal": "https://thumbs.dreamstime.com/b/two-pickleball-paddles-pickleball-court-net-shadow-colorful-composition-laying-near-33216831.jpg",
+        "textImage": "🏆"
       }
     ],
     "tournaments": [

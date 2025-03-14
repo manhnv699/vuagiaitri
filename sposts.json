@@ -8,6 +8,7 @@
     "api": "https://api.vebo.xyz/api",
     "apiCaKeo":"https://api.cakeo.xyz",
     "pathCaKeoLive":"/match/live",
+    "pathCaKeoMatchDetail":"/match/meta-v2/{idMatch}",
     "pathTournament": "/tournament",
     "pathTournamentDetail": "/tournament/featured/{idTournament}",
     "pathFeatured": "/match/featured",

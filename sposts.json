@@ -26,7 +26,7 @@
         "thumbnailVertical": "https://c8.alamy.com/comp/MW3KAT/football-tournament-banner-MW3KAT.jpg",
         "thumbnailHorizontal": "https://t3.ftcdn.net/jpg/06/07/07/80/360_F_607078002_yMGIjR7oCK8fvvR8qD8hZ5EsXK7V8M7I.jpg",
         "textImage": "⚽",
-        "sport_type":"football",
+        "sport_type":"football"
       },      
       {
         "id": "tab-s-basketball",
@@ -43,7 +43,7 @@
         "name": "Bóng chuyền",
         "thumbnailVertical": "https://thumbs.dreamstime.com/b/volleyball-championship-banner-blank-template-sport-game-club-banners-ball-paint-ink-brushstrokes-stains-half-tone-214593247.jpg",
         "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2023/11/Pembroke-Volleyball-Tournament-Event-Header-Image.jpg",
-        "textImage": "🏐",
+        "textImage": "🏐"
       },
       {
         "id": "tab-s-badminton",
@@ -51,7 +51,7 @@
         "name": "Cầu lông",
         "thumbnailVertical": "https://img.freepik.com/premium-vector/badminton-logo-design-vector-badminton-championship-icon_630259-44.jpg",
         "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2024/01/Pembroke-Generic-Badminton-Tournament-Web-Event-Header.jpg",
-        "textImage": "🏸",
+        "textImage": "🏸"
       },
       {
         "id": "tab-s-tennis",

@@ -20,6 +20,15 @@
     "pathXemlai": "/news/xoilac/list/xemlai/{page}",
     "sportsTournaments": [
       {
+        "id": "tab-s-football",
+        "slug": "football",
+        "name": "Bóng đá",
+        "thumbnailVertical": "https://c8.alamy.com/comp/MW3KAT/football-tournament-banner-MW3KAT.jpg",
+        "thumbnailHorizontal": "https://t3.ftcdn.net/jpg/06/07/07/80/360_F_607078002_yMGIjR7oCK8fvvR8qD8hZ5EsXK7V8M7I.jpg",
+        "textImage": "⚽",
+        "sport_type":"football",
+      },      
+      {
         "id": "tab-s-basketball",
         "slug": "basketball",
         "name": "Bóng rổ",

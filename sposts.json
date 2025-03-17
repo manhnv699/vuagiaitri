@@ -25,7 +25,8 @@
         "name": "Bóng rổ",
         "thumbnailVertical": "https://www.muraldecal.com/en/img/asfs355-jpg/folder/products-listado-merchanthover/stickers-nba.jpg",
         "thumbnailHorizontal": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-04/All-NBA%20040724.jpeg?itok=1t_AJEj0",
-        "textImage": "🏀"
+        "textImage": "🏀",
+        "sport_type":"2"
       },
       {
         "id": "tab-s-volleyball",
@@ -33,7 +34,7 @@
         "name": "Bóng chuyền",
         "thumbnailVertical": "https://thumbs.dreamstime.com/b/volleyball-championship-banner-blank-template-sport-game-club-banners-ball-paint-ink-brushstrokes-stains-half-tone-214593247.jpg",
         "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2023/11/Pembroke-Volleyball-Tournament-Event-Header-Image.jpg",
-        "textImage": "🏐"
+        "textImage": "🏐",
       },
       {
         "id": "tab-s-badminton",
@@ -41,7 +42,7 @@
         "name": "Cầu lông",
         "thumbnailVertical": "https://img.freepik.com/premium-vector/badminton-logo-design-vector-badminton-championship-icon_630259-44.jpg",
         "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2024/01/Pembroke-Generic-Badminton-Tournament-Web-Event-Header.jpg",
-        "textImage": "🏸"
+        "textImage": "🏸",
       },
       {
         "id": "tab-s-tennis",
@@ -98,7 +99,7 @@
         "slug": "ngoai-hang-anh",
         "name": "Ngoại hạng anh",
         "thumbnailVertical": "https://icon2.cleanpng.com/20190117/ilw/kisspng-logo-football-dream-league-soccer-graphic-design-t-1713909214181.webp",
-        "thumbnailHorizontal": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png"
+        "thumbnailHorizontal": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
       },
       {
         "id": "hJx1pjG",

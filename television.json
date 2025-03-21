@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6ccb310b-d01b-4cf2-a6bb-7bfd5307b504",
+    "name": "VTV",
+    "type": 4
+  },
+  {
+    "id": "8aee8bd1-4c38-4311-8587-10413ba40493",
+    "name": "HTV",
+    "type": 4
+  },
+  {
+    "id": "6f8ee67e-1285-40c7-b02e-ea671a764203",
+    "name": "THVL",
+    "type": 4
+  },
+  {
+    "id": "4992b9b0-cdbe-4516-83b4-77c218dff248",
+    "name": "Địa phương",
+    "type": 4
+  }
+]

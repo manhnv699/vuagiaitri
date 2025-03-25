@@ -1,22 +1,103 @@
-[
-  {
-    "id": "6ccb310b-d01b-4cf2-a6bb-7bfd5307b504",
-    "name": "VTV",
-    "type": 4
+{
+  "vieOn": {
+    "api": "https://api.vieon.vn/backend/cm/v5",
+    "pathGetChannels": "/ribbon/$[tvId]?page=0&limit=1000&platform=web&ui=01202",
+    "pathLive": "/slug/livetv/detail?platform=web&ui=012021",
+    "pathLiveEpg": "/livetv/epg?livetv_id=$[liveTvId]&str_date=$[strDate]&platform=web&ui=012021"
   },
-  {
-    "id": "8aee8bd1-4c38-4311-8587-10413ba40493",
-    "name": "HTV",
-    "type": 4
+  "tvMienPhi": {
+    "api": "https://sv.tvmienphi.xyz/ok/world",
+    "quocte": [
+      {
+        "name": "HBO",
+        "image": "https://tv.tvhayhd.org/uploads/tv_image/hbo.png",
+        "api": "/hbo1.php",
+        "referer": "/hboshow.php"
+      },
+      {
+        "name": "Cartoon Network",
+        "image": "https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",
+        "api": "/cartoon1.php",
+        "referer": "/cartoon.php"
+      },
+      {
+        "name": "BOOMERANG",
+        "image": "https://i.imgur.com/9bUvKrF.jpeg",
+        "api": "/boomerang1.php",
+        "referer": "/boomerangshow.php"
+      },
+      {
+        "name": "BOOMERANG",
+        "image": "https://i.imgur.com/9bUvKrF.jpeg",
+        "api": "/boomerang1.php",
+        "referer": "/boomerangshow.php"
+      },
+      {
+        "name": "ANIMAX",
+        "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-animax-truc-tuyen.png",
+        "api": "/animax1.php",
+        "referer": "/animaxshow.php"
+      },
+      {
+        "name": "Warner TV",
+        "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/warnertv.jpg",
+        "api": "/warner1.php",
+        "referer": "/warnershow.php"
+      }
+    ],
+    "kPlus": [
+      {
+        "name": "K+Sport1",
+        "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",
+        "api": "/ksport11.php",
+        "referer": "/ksport1show.php"
+      },
+      {
+        "name": "K+Sport2",
+        "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png",
+        "api": "/ksport21.php",
+        "referer": "/ksport2show.php"
+      },
+      {
+        "name": "K+Action",
+        "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg",
+        "api": "/kaction1.php",
+        "referer": "/kactionshow.php"
+      },
+      {
+        "name": "K+Kids",
+        "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg",
+        "api": "/kkids1.php",
+        "referer": "/kkidsshow.php"
+      },
+      {
+        "name": "K+Cine",
+        "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg",
+        "api": "/kcine1.php",
+        "referer": "/kcineshow.php"
+      }
+    ]
   },
-  {
-    "id": "6f8ee67e-1285-40c7-b02e-ea671a764203",
-    "name": "THVL",
-    "type": 4
-  },
-  {
-    "id": "4992b9b0-cdbe-4516-83b4-77c218dff248",
-    "name": "Địa phương",
-    "type": 4
-  }
-]
+  "tvs": [
+    {
+      "id": "6ccb310b-d01b-4cf2-a6bb-7bfd5307b504",
+      "name": "VTV",
+      "type": 4
+    },
+    {
+      "id": "8aee8bd1-4c38-4311-8587-10413ba40493",
+      "name": "HTV",
+      "type": 4
+    },
+    {
+      "id": "6f8ee67e-1285-40c7-b02e-ea671a764203",
+      "name": "THVL",
+      "type": 4
+    },
+    {
+      "id": "4992b9b0-cdbe-4516-83b4-77c218dff248",
+      "name": "Địa phương",
+      "type": 4
+    }
+  ]
+}

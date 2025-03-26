@@ -16,16 +16,22 @@
         "referer": "/hboshow.php"
       },
       {
+        "name": "Cinemax",
+        "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-cinemax-truc-tuyen.png",
+        "api": "/cinemax1.php",
+        "referer": "/cinemaxshow.php"
+      },
+      {
+        "name": "AXN",
+        "image": "https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",
+        "api": "/axn1.php",
+        "referer": "/axnshow.php"
+      },
+      {
         "name": "Cartoon Network",
         "image": "https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",
         "api": "/cartoon1.php",
         "referer": "/cartoon.php"
-      },
-      {
-        "name": "BOOMERANG",
-        "image": "https://i.imgur.com/9bUvKrF.jpeg",
-        "api": "/boomerang1.php",
-        "referer": "/boomerangshow.php"
       },
       {
         "name": "BOOMERANG",

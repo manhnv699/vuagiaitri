@@ -8,6 +8,20 @@
   "tvMienPhi": {
     "api": "https://sv.tvmienphi.xyz/ok/world",
     "apiGetLink": "https://sv.tvmienphi.xyz/$[livecdnk]",
+    "vtv": [
+      {
+        "name": "VTV2",
+        "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
+        "api": "/vtv21.php",
+        "referer": "/vtv2show.php"
+      },
+      {
+        "name": "VTV3",
+        "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
+        "api": "/vtv31.php",
+        "referer": "/vtv3show.php"
+      }
+    ],
     "quocte": [
       {
         "name": "HBO",

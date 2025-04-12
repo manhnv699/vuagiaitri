@@ -10,16 +10,67 @@
     "apiGetLink": "https://sv.tvmienphi.xyz/$[livecdnk]",
     "vtv": [
       {
-        "name": "VTV2",
+        "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
+        "name": "VTV1 HD",
+        "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
+        "api": "/vtv11.php",
+        "referer": "/vtv1show.php"
+      },
+      {
+        "id": "cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942",
+        "name": "VTV2 HD",
         "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
         "api": "/vtv21.php",
         "referer": "/vtv2show.php"
       },
       {
-        "name": "VTV3",
+        "id": "aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c",
+        "name": "VTV3 HD",
         "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
         "api": "/vtv31.php",
         "referer": "/vtv3show.php"
+      },
+      {
+        "id": "c9383b3c-c775-467e-901b-a651c1dfef9f",
+        "name": "VTV4 HD",
+        "image": "https://imageshack.com/a/img921/580/sFxfmH.jpg",
+        "api": "/vtv41.php",
+        "referer": "/vtv4show.php"
+      },
+      {
+        "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
+        "name": "VTV5 HD",
+        "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
+        "api": "/vtv51.php",
+        "referer": "/vtv5show.php"
+      },
+      {
+        "id": "66653680-a833-40e9-8b0e-a59677a3b395",
+        "name": "VTV Cần Thơ",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/01/24/d4p205nr_vtvcantho-backup8a19f3e8cabdd2a9e2d3013984d6e3a2_296_168.webp",
+        "api": "/vtv61.php",
+        "referer": "/vtv6show.php"
+      },
+      {
+        "id": "59875614-8872-4f86-a45b-9983068ee7ef",
+        "name": "VTV7 HD",
+        "image": "https://i.imgur.com/XwSaq8m.png",
+        "api": "/vtv71.php",
+        "referer": "/vtv7show.php"
+      },
+      {
+        "id": "b8a5931c-3723-4a47-9af6-0435d811990a",
+        "name": "VTV8 HD",
+        "image": "https://imageshack.com/a/img921/5741/BnDdlQ.jpg",
+        "api": "/vtv81.php",
+        "referer": "/vtv8show.php"
+      },
+      {
+        "id": "8277b8a7-c0af-4182-92a0-ac7d091b3df5",
+        "name": "VTV9 HD",
+        "image": "https://imageshack.com/a/img924/7716/PTu616.jpg",
+        "api": "/vtv91.php",
+        "referer": "/vtv9show.php"
       }
     ],
     "quocte": [

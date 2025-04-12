@@ -6,147 +6,147 @@
     "pathLiveEpg": "/livetv/epg?livetv_id=$[liveTvId]&str_date=$[strDate]&platform=web&ui=012021"
   },
   "tvMienPhi": {
-    "api": "https://sv.tvmienphi.xyz/ok/world",
+    "api": "https://sv.tvmienphi.xyz/ok",
     "apiGetLink": "https://sv.tvmienphi.xyz/$[livecdnk]",
     "vtv": [
       {
         "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
         "name": "VTV1 HD",
         "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
-        "api": "/vtv11.php",
-        "referer": "/vtv1show.php"
+        "api": "/vtv/vtv11.php",
+        "referer": "/vtv/vtv1show.php"
       },
       {
         "id": "cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942",
         "name": "VTV2 HD",
         "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
-        "api": "/vtv21.php",
-        "referer": "/vtv2show.php"
+        "api": "/vtv/vtv21.php",
+        "referer": "/vtv/vtv2show.php"
       },
       {
         "id": "aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c",
         "name": "VTV3 HD",
         "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
-        "api": "/vtv31.php",
-        "referer": "/vtv3show.php"
+        "api": "/vtv/vtv31.php",
+        "referer": "/vtv/vtv3show.php"
       },
       {
         "id": "c9383b3c-c775-467e-901b-a651c1dfef9f",
         "name": "VTV4 HD",
         "image": "https://imageshack.com/a/img921/580/sFxfmH.jpg",
-        "api": "/vtv41.php",
-        "referer": "/vtv4show.php"
+        "api": "/vtv/vtv41.php",
+        "referer": "/vtv/vtv4show.php"
       },
       {
         "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
         "name": "VTV5 HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
-        "api": "/vtv51.php",
+        "api": "/vtv/vtv51.php",
         "referer": "/vtv5show.php"
       },
       {
         "id": "66653680-a833-40e9-8b0e-a59677a3b395",
         "name": "VTV Cần Thơ",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/01/24/d4p205nr_vtvcantho-backup8a19f3e8cabdd2a9e2d3013984d6e3a2_296_168.webp",
-        "api": "/vtv61.php",
-        "referer": "/vtv6show.php"
+        "api": "/vtv/vtv61.php",
+        "referer": "/vtv/vtv6show.php"
       },
       {
         "id": "59875614-8872-4f86-a45b-9983068ee7ef",
         "name": "VTV7 HD",
         "image": "https://i.imgur.com/XwSaq8m.png",
-        "api": "/vtv71.php",
-        "referer": "/vtv7show.php"
+        "api": "/vtv/vtv71.php",
+        "referer": "/vtv/vtv7show.php"
       },
       {
         "id": "b8a5931c-3723-4a47-9af6-0435d811990a",
         "name": "VTV8 HD",
         "image": "https://imageshack.com/a/img921/5741/BnDdlQ.jpg",
-        "api": "/vtv81.php",
-        "referer": "/vtv8show.php"
+        "api": "/vtv/vtv81.php",
+        "referer": "/vtv/vtv8show.php"
       },
       {
         "id": "8277b8a7-c0af-4182-92a0-ac7d091b3df5",
         "name": "VTV9 HD",
         "image": "https://imageshack.com/a/img924/7716/PTu616.jpg",
-        "api": "/vtv91.php",
-        "referer": "/vtv9show.php"
+        "api": "/vtv/vtv91.php",
+        "referer": "/vtv/vtv9show.php"
       }
     ],
     "quocte": [
       {
         "name": "HBO",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/hbo.png",
-        "api": "/hbo1.php",
-        "referer": "/hboshow.php"
+        "api": "/world/hbo1.php",
+        "referer": "/world/hboshow.php"
       },
       {
         "name": "Cinemax",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-cinemax-truc-tuyen.png",
-        "api": "/cinemax1.php",
-        "referer": "/cinemaxshow.php"
+        "api": "/world/cinemax1.php",
+        "referer": "/world/cinemaxshow.php"
       },
       {
         "name": "AXN",
         "image": "https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",
-        "api": "/axn1.php",
-        "referer": "/axnshow.php"
+        "api": "/world/axn1.php",
+        "referer": "/world/axnshow.php"
       },
       {
         "name": "Cartoon Network",
         "image": "https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",
-        "api": "/cartoon1.php",
-        "referer": "/cartoon.php"
+        "api": "/world/cartoon1.php",
+        "referer": "/world/cartoon.php"
       },
       {
         "name": "BOOMERANG",
         "image": "https://i.imgur.com/9bUvKrF.jpeg",
-        "api": "/boomerang1.php",
-        "referer": "/boomerangshow.php"
+        "api": "/world/boomerang1.php",
+        "referer": "/world/boomerangshow.php"
       },
       {
         "name": "ANIMAX",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-animax-truc-tuyen.png",
-        "api": "/animax1.php",
-        "referer": "/animaxshow.php"
+        "api": "/world/animax1.php",
+        "referer": "/world/animaxshow.php"
       },
       {
         "name": "Warner TV",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/warnertv.jpg",
-        "api": "/warner1.php",
-        "referer": "/warnershow.php"
+        "api": "/world/warner1.php",
+        "referer": "/world/warnershow.php"
       }
     ],
     "kPlus": [
       {
         "name": "K+Sport1",
         "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",
-        "api": "/ksport11.php",
-        "referer": "/ksport1show.php"
+        "api": "/vtv/ksport11.php",
+        "referer": "/vtv/ksport1show.php"
       },
       {
         "name": "K+Sport2",
         "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png",
-        "api": "/ksport21.php",
-        "referer": "/ksport2show.php"
+        "api": "/vtv/ksport21.php",
+        "referer": "/vtv/ksport2show.php"
       },
       {
         "name": "K+Action",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg",
-        "api": "/kaction1.php",
-        "referer": "/kactionshow.php"
+        "api": "/vtv/kaction1.php",
+        "referer": "/vtv/kactionshow.php"
       },
       {
         "name": "K+Kids",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg",
-        "api": "/kkids1.php",
-        "referer": "/kkidsshow.php"
+        "api": "/vtv/kkids1.php",
+        "referer": "/vtv/kkidsshow.php"
       },
       {
         "name": "K+Cine",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg",
-        "api": "/kcine1.php",
-        "referer": "/kcineshow.php"
+        "api": "/vtv/kcine1.php",
+        "referer": "/vtv/kcineshow.php"
       }
     ]
   },

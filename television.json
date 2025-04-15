@@ -119,30 +119,35 @@
     ],
     "kPlus": [
       {
+        "id": "1e5e9480-13d0-4a3c-970b-78288003d728",
         "name": "K+Sport1",
         "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",
         "api": "/vtv/ksport11.php",
         "referer": "/vtv/ksport1show.php"
       },
       {
+        "id": "ae0e97e2-72e2-403e-9550-1b20c4683d9f",
         "name": "K+Sport2",
         "image": "https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png",
         "api": "/vtv/ksport21.php",
         "referer": "/vtv/ksport2show.php"
       },
       {
+        "id": "4036427a-6532-4d09-be1f-aaf5873c7e47",
         "name": "K+Action",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg",
         "api": "/vtv/kaction1.php",
         "referer": "/vtv/kactionshow.php"
       },
       {
+        "id": "260f3aa8-5e48-4025-bea4-ffedd7129624",
         "name": "K+Kids",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg",
         "api": "/vtv/kkids1.php",
         "referer": "/vtv/kkidsshow.php"
       },
       {
+        "id": "51accb2c-1de0-4a5c-9d8a-b139a22b9012",
         "name": "K+Cine",
         "image": "https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg",
         "api": "/vtv/kcine1.php",

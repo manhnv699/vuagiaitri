@@ -87,12 +87,14 @@
         "referer": "/world/cinemaxshow.php"
       },
       {
+        "id": "139644be-341f-47e2-9ae9-dad08c947748",
         "name": "AXN",
         "image": "https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",
         "api": "/world/axn1.php",
         "referer": "/world/axnshow.php"
       },
       {
+        "id": "5cc69d36-0012-4fa2-9ccf-6974435176ac",
         "name": "Cartoon Network",
         "image": "https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",
         "api": "/world/cartoon1.php",
@@ -111,6 +113,7 @@
         "referer": "/world/animaxshow.php"
       },
       {
+        "id": "ff098076-6395-4eed-b852-e4b9b5c76102",
         "name": "Warner TV",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/warnertv.jpg",
         "api": "/world/warner1.php",

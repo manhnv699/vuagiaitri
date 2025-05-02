@@ -1,0 +1,5 @@
+{
+    "hostApi": "https://vua-phim.xyz/api",
+    "hostApiAccount": "https://vua-phim.xyz/api/account",
+    "hostApiFilm": "https://vua-phim.xyz/api/films"
+}

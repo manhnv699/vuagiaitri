@@ -15,7 +15,7 @@
     "pathTournament": "/tournament",
     "pathTournamentDetail": "/tournament/featured/{idTournament}",
     "pathFeatured": "/match/featured",
-    "apiLiveBongDa": "https://br.vebo.xyz/api/match/live",
+    "apiLiveBongDa": "https://br.vebo.xyz/api/match/vb/fixture/{date}",
     "pathMatchDetail": "/match/{idMatch}/meta",
     "pathNewsDetail": "/news/xoilac/detail/{idMatch}",
     "pathList": "/news/xoilac/list/{page}",
@@ -106,6 +106,13 @@
       }
     ],
     "tournaments": [
+      {
+        "id": "6752000c36f1d976c1c64159",
+        "slug": "fifa-club-wc",
+        "name": "FIFA Club WorldCup",
+        "thumbnailVertical": "https://baotayninh.vn/image/fckeditor/upload/2025/20250613/images/fifa-club-world-cup-2025-3-74465.jpg",
+        "thumbnailHorizontal": "https://photo.znews.vn/w660/Uploaded/bpivpawv/2025_06_09/anh_1.jpg"
+      },     
       {
         "id": "fO9g2hj",
         "slug": "ngoai-hang-anh",

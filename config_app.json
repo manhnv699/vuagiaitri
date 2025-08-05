@@ -1,8 +1,9 @@
 {
-    "hostApi": "https://vuagiaitri.online/api",
-    "hostApiAccount": "https://vuagiaitri.online/api/account",
-    "hostApiFilm": "https://vuagiaitri.online/api/films"
+    "hostApi": "https://vua-phim.xyz/api",
+    "hostApiAccount": "https://vua-phim.xyz/api/account",
+    "hostApiFilm": "https://vua-phim.xyz/api/films"
 }
+
 
 
 

@@ -11,6 +11,7 @@
     "tonghop2Backup":"https://b.thapcam73.life",
     "refererBackup":"https://m10.ldplayer.xyz/v11/",
     "apiBunChaCategoriesMatches":"https://apigw.bunchatv2.com/home/categories-matches",
+    "apiBunChaCategoryId":"https://apigw.bunchatv2.com/sport/matches?category_id=[$categoryId]&page=[$page]&page_size=[$pageSize]&status=100&sort=hot&start_time=[$startTime]&end_time=[$endTime]&withfollow=binhluan",
     "api": "https://api.vebo.xyz/api",
     "apiVeBo": "https://br.vebo.xyz/api",
     "apiCaKeo":"https://api.cakeo.xyz",

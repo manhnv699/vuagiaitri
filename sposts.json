@@ -115,11 +115,11 @@
     ],
     "tournaments": [
       {
-        "id": "6752000c36f1d976c1c64159",
-        "slug": "fifa-club-wc",
-        "name": "FIFA Club WorldCup",
-        "thumbnailVertical": "https://baotayninh.vn/image/fckeditor/upload/2025/20250613/images/fifa-club-world-cup-2025-3-74465.jpg",
-        "thumbnailHorizontal": "https://photo.znews.vn/w660/Uploaded/bpivpawv/2025_06_09/anh_1.jpg"
+        "id": "308643",
+        "slug": "Myanmar Professional League",
+        "name": "Myanmar Professional League",
+        "thumbnailVertical": "https://upload.wikimedia.org/wikipedia/en/4/47/Myanmar_National_League_logo.png",
+        "thumbnailHorizontal": "https://www.footballkitarchive.com/static/logos/gVhwUbVg1ZkIHBX/myanmar-national-league-2015-2016-logo.png"
       },     
       {
         "id": "fO9g2hj",

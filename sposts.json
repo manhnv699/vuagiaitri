@@ -31,8 +31,8 @@
     "pathThapCamFeatured":"/match/tc/featured",
     "sportsTournaments": [
       {
-        "id": "tab-s-football",
-        "slug": "football",
+        "id": "1",
+        "slug": "bong-da-xoilac-tv",
         "name": "Bóng đá",
         "thumbnailVertical": "https://c8.alamy.com/comp/MW3KAT/football-tournament-banner-MW3KAT.jpg",
         "thumbnailHorizontal": "https://t3.ftcdn.net/jpg/06/07/07/80/360_F_607078002_yMGIjR7oCK8fvvR8qD8hZ5EsXK7V8M7I.jpg",
@@ -41,7 +41,7 @@
       },      
       {
         "id": "tab-s-basketball",
-        "slug": "basketball",
+        "slug": "bong-ro",
         "name": "Bóng rổ",
         "thumbnailVertical": "https://www.muraldecal.com/en/img/asfs355-jpg/folder/products-listado-merchanthover/stickers-nba.jpg",
         "thumbnailHorizontal": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-04/All-NBA%20040724.jpeg?itok=1t_AJEj0",
@@ -50,7 +50,7 @@
       },
       {
         "id": "tab-s-volleyball",
-        "slug": "volleyball",
+        "slug": "bong-chuyen",
         "name": "Bóng chuyền",
         "thumbnailVertical": "https://thumbs.dreamstime.com/b/volleyball-championship-banner-blank-template-sport-game-club-banners-ball-paint-ink-brushstrokes-stains-half-tone-214593247.jpg",
         "thumbnailHorizontal": "https://thumbs.dreamstime.com/b/volleyball-bursts-cloud-colorful-powder-creating-vivid-display-action-captures-excitement-energy-354725121.jpg",
@@ -58,7 +58,7 @@
       },
       {
         "id": "tab-s-badminton",
-        "slug": "badminton",
+        "slug": "cau-long",
         "name": "Cầu lông",
         "thumbnailVertical": "https://img.freepik.com/premium-vector/badminton-logo-design-vector-badminton-championship-icon_630259-44.jpg",
         "thumbnailHorizontal": "https://s10896.pcdn.co/wp-content/uploads/2024/01/Pembroke-Generic-Badminton-Tournament-Web-Event-Header.jpg",
@@ -74,7 +74,7 @@
       },
       {
         "id": "tab-s-wwe",
-        "slug": "wwe",
+        "slug": "vo-thuat",
         "name": "WWE",
         "thumbnailVertical": "https://c4.wallpaperflare.com/wallpaper/366/822/448/video-game-wwe-2k17-brock-lesnar-wwe-wallpaper-preview.jpg",
         "thumbnailHorizontal": "https://i.ebayimg.com/images/g/1oQAAOSw7OdloXBv/s-l1200.jpg",
@@ -82,7 +82,7 @@
       },
       {
         "id": "tab-s-esports",
-        "slug": "esports",
+        "slug": "esport",
         "name": "Esports",
         "thumbnailVertical": "https://i.pinimg.com/736x/1a/ba/05/1aba0578282a231f071da5330b7b48fa.jpg",
         "thumbnailHorizontal": "https://wallpapers.com/images/hd/1920-x-1080-hd-gaming-wncpxf9w45vlguif.jpg",
@@ -98,7 +98,7 @@
       },
       {
         "id": "tab-s-pool",
-        "slug": "pool",
+        "slug": "billiards",
         "name": "Bi-a",
         "thumbnailVertical": "https://i.pinimg.com/736x/a1/15/d5/a115d5067ac7b2eae8bbe2aef7ac6321.jpg",
         "thumbnailHorizontal": "https://png.pngtree.com/background/20230526/original/pngtree-billiard-table-with-colorful-balls-sitting-on-top-picture-image_2744335.jpg",

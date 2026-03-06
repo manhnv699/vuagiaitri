@@ -77,46 +77,46 @@
       {
         "name": "HBO",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/hbo.png",
-        "api": "/world/hbo1.php",
+        "api": "/world/hbo2.php",
         "referer": "/world/hboshow.php"
       },
       {
         "name": "Cinemax",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-cinemax-truc-tuyen.png",
-        "api": "/world/cinemax1.php",
+        "api": "/world/cinemax2.php",
         "referer": "/world/cinemaxshow.php"
       },
       {
         "id": "139644be-341f-47e2-9ae9-dad08c947748",
         "name": "AXN",
         "image": "https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",
-        "api": "/world/axn1.php",
+        "api": "/world/axn2.php",
         "referer": "/world/axnshow.php"
       },
       {
         "id": "5cc69d36-0012-4fa2-9ccf-6974435176ac",
         "name": "Cartoon Network",
         "image": "https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",
-        "api": "/world/cartoon1.php",
+        "api": "/world/cartoon2.php",
         "referer": "/world/cartoon.php"
       },
       {
         "name": "BOOMERANG",
         "image": "https://i.imgur.com/9bUvKrF.jpeg",
-        "api": "/world/boomerang1.php",
+        "api": "/world/boomerang2.php",
         "referer": "/world/boomerangshow.php"
       },
       {
         "name": "ANIMAX",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/xem-kenh-animax-truc-tuyen.png",
-        "api": "/world/animax1.php",
+        "api": "/world/animax2.php",
         "referer": "/world/animaxshow.php"
       },
       {
         "id": "ff098076-6395-4eed-b852-e4b9b5c76102",
         "name": "Warner TV",
         "image": "https://tv.tvhayhd.org/uploads/tv_image/sm/warnertv.jpg",
-        "api": "/world/warner1.php",
+        "api": "/world/warner2.php",
         "referer": "/world/warnershow.php"
       }
     ],

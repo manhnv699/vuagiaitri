@@ -13,6 +13,7 @@
         "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
         "name": "VTV1 HD",
         "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
         "api": "/vtv/vtv12.php",
         "referer": "/vtv/vtv1show.php"
       },
@@ -20,6 +21,7 @@
         "id": "cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942",
         "name": "VTV2 HD",
         "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
         "api": "/vtv/vtv22.php",
         "referer": "/vtv/vtv2show.php"
       },
@@ -27,6 +29,7 @@
         "id": "aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c",
         "name": "VTV3 HD",
         "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
         "api": "/vtv/vtv32.php",
         "referer": "/vtv/vtv3show.php"
       },
@@ -34,6 +37,7 @@
         "id": "c9383b3c-c775-467e-901b-a651c1dfef9f",
         "name": "VTV4 HD",
         "image": "https://imageshack.com/a/img921/580/sFxfmH.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
         "api": "/vtv/vtv42.php",
         "referer": "/vtv/vtv4show.php"
       },
@@ -41,20 +45,31 @@
         "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
         "name": "VTV5 HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
+        "m3u8": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
         "api": "/vtv/vtv52.php",
         "referer": "/vtv5show.php"
       },
       {
-        "id": "66653680-a833-40e9-8b0e-a59677a3b395",
-        "name": "VTV Cần Thơ",
-        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/01/24/d4p205nr_vtvcantho-backup8a19f3e8cabdd2a9e2d3013984d6e3a2_296_168.webp",
-        "api": "/vtv/vtv62.php",
-        "referer": "/vtv/vtv6show.php"
+        "id": "19f26a5c-929e-4b81-954d-366036abbb4f",
+        "name": "VTV5 Tây Nam Bộ HD",
+        "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8",
+        "api": "/vtv/vtv52.php",
+        "referer": "/vtv5show.php"
+      },
+      {
+        "id": "4e315b06-4e75-44c3-aa02-ede3653b52cc",
+        "name": "VTV5 Tây Nguyên HD",
+        "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
+        "m3u8": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8",
+        "api": "/vtv/vtv52.php",
+        "referer": "/vtv5show.php"
       },
       {
         "id": "59875614-8872-4f86-a45b-9983068ee7ef",
         "name": "VTV7 HD",
         "image": "https://i.imgur.com/XwSaq8m.png",
+        "m3u8": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
         "api": "/vtv/vtv72.php",
         "referer": "/vtv/vtv7show.php"
       },
@@ -62,6 +77,7 @@
         "id": "b8a5931c-3723-4a47-9af6-0435d811990a",
         "name": "VTV8 HD",
         "image": "https://imageshack.com/a/img921/5741/BnDdlQ.jpg",
+        "m3u8": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
         "api": "/vtv/vtv82.php",
         "referer": "/vtv/vtv8show.php"
       },
@@ -69,6 +85,39 @@
         "id": "8277b8a7-c0af-4182-92a0-ac7d091b3df5",
         "name": "VTV9 HD",
         "image": "https://imageshack.com/a/img924/7716/PTu616.jpg",
+        "m3u8": "https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8",
+        "api": "/vtv/vtv92.php",
+        "referer": "/vtv/vtv9show.php"
+      },
+      {
+        "id": "66653680-a833-40e9-8b0e-a59677a3b395",
+        "name": "VTV10 (VTV6, CẦN THƠ) HD",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/03/30/z0ra7tps_banner-dai-truyen-hinh_296_168.webp",
+        "m3u8": "https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8",
+        "api": "/vtv/vtv92.php",
+        "referer": "/vtv/vtv9show.php"
+      },
+      {
+        "id": "60b14147-c306-493c-ba01-e672595b56a8",
+        "name": "VIETNAM TODAY",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/09/05/apb3bs61_banner1f7e02f487e949d751b54c5ff6a18e9dd_296_168.webp",
+        "m3u8": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8",
+        "api": "/vtv/vtv92.php",
+        "referer": "/vtv/vtv9show.php"
+      },
+      {
+        "id": "545ba83d-1a69-47d5-b715-9fed5b726bc7",
+        "name": "ANH NINH TV HD",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/08/01/e3wuegv1_bannerebd4f80a08cb1c71d366bf1e311a2074_296_168.webp",
+        "m3u8": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
+        "api": "/vtv/vtv92.php",
+        "referer": "/vtv/vtv9show.php"
+      },
+      {
+        "id": "5da86644-b907-4c99-a7a3-304fa39923be",
+        "name": "QUỐC PHÒNG TV HD",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/09/19/e75bo8r9_qpvnf47f1a029b3e5de6fbd5a0e2129a5058_296_168.webp",
+        "m3u8": "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8",
         "api": "/vtv/vtv92.php",
         "referer": "/vtv/vtv9show.php"
       }

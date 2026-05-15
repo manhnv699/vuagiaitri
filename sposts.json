@@ -15,7 +15,7 @@
     "refererBunCha":"https://bunchatv4.net/",
     "apiGaVang":"https://api-gavang.gvtv1.com",
     "pathGaVangMatches":"/matches/graph",
-    "pathGaVangMatchLive":"/match/{idMatch}/live",
+    "pathGaVangMatchLive":"/match/{idMatch}/live/",
     "refererGaVang":"https://xem1.gv08.live",
     "api": "https://api.vebo.xyz/api",
     "apiVeBo": "https://br.vebo.xyz/api",

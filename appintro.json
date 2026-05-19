@@ -1,15 +1,15 @@
 {
   "app_name": "Vua Giải Trí 🎬📺",
-  "intro": "Chào mừng bạn đến với **App Vua Giải Trí** – nơi bạn có thể thưởng thức hàng loạt nội dung giải trí đỉnh cao! Với **những bộ phim bom tấn**, **phim kinh điển**, những trận đấu bóng đá 🌍⚽, giải thể thao 🏆 và các kênh truyền hình sắc nét 📡, App Vua Giải Trí chính là lựa chọn lý tưởng để bạn thư giãn mọi lúc, mọi nơi.",
+  "intro": "Chào mừng bạn đến với **App Vua Giải Trí** – kho giải trí đỉnh cao ngay trong tay bạn! Thưởng thức **phim bom tấn**, **phim kinh điển**, **hoạt hình & anime**, các trận đấu **bóng đá** 🌍⚽, giải **thể thao hấp dẫn** 🏆 và **kênh truyền hình sắc nét** 📡. Trải nghiệm tuyệt vời để thư giãn mọi lúc, mọi nơi.",
   "features": [
-    "🎬 **Phim Bom Tấn**: Những bộ phim hấp dẫn nhất, từ hành động, phiêu lưu đến tâm lý!",
-    "🎥 **Phim Kinh Điển**: Trở lại với những tác phẩm điện ảnh kinh điển không thể bỏ lỡ!",
-    "🧸 **Hoạt Hình & Anime**: Thế giới hoạt hình đa dạng, anime hay nhất chỉ có tại đây!",
-    "⚽ **Bóng Đá Đỉnh Cao**: Cập nhật liên tục các trận đấu bóng đá từ các giải đấu lớn trên thế giới!",
-    "🏀 **Giải Thể Thao Uy Tín**: Xem trực tiếp các giải đấu thể thao hấp dẫn nhất!",
-    "📡 **Kênh Truyền Hình Sắc Nét**: Trải nghiệm các kênh truyền hình chất lượng cao với hình ảnh sắc nét!"
+    "🎬 **Phim Bom Tấn**: Những bộ phim mới nhất, hấp dẫn từ hành động, phiêu lưu đến tâm lý.",
+    "🎥 **Phim Kinh Điển**: Quay lại những tác phẩm điện ảnh kinh điển, không thể bỏ lỡ.",
+    "🧸 **Hoạt Hình & Anime**: Thế giới hoạt hình đa dạng, anime hay nhất chỉ có tại App Vua Giải Trí.",
+    "⚽ **Bóng Đá Đỉnh Cao**: Cập nhật liên tục các trận đấu từ giải lớn trên thế giới.",
+    "🏀 **Giải Thể Thao Uy Tín**: Xem trực tiếp các giải đấu thể thao hấp dẫn, hot nhất.",
+    "📡 **Kênh Truyền Hình Sắc Nét**: Trải nghiệm các kênh chất lượng cao với hình ảnh mượt mà."
   ],
-  "note": "⚠️ **Lưu ý**: **App Vua Giải Trí 🎬📺** hiện đang trong giai đoạn **ra mắt bản thử nghiệm** trên **TV Android, Android Box, điện thoại Android và iOS**. Một số thiết bị sử dụng **ABI cũ (armeabi-v7a...)** có thể gặp hiện tượng **giật lag nhẹ**. Với thiết bị dùng **ABI mới (arm64-v8a, x86_64...)**, trải nghiệm sẽ **mượt mà hơn**. Ứng dụng **không được viết bằng native**, vì vậy một số thao tác điều hướng có thể chưa tối ưu. Tuy nhiên, **trải nghiệm phát video vẫn mượt mà, ổn định**.\n\nỨng dụng được tạo ra chủ yếu nhằm mục đích **học tập và nghiên cứu**, với nội dung tổng hợp từ nhiều **nguồn miễn phí công khai trên Internet**. Một số nội dung có thể **không phù hợp với bạn**, hãy **cân nhắc trước khi xem**. Ngoài ra, có thể có những nội dung liên quan đến **chủ quyền biển đảo, bao gồm Hoàng Sa và Trường Sa** – xin lưu ý tiếp cận thông tin một cách tỉnh táo.\n\n👉 **Hoàng Sa – Trường Sa là của Việt Nam.**",
+  "note": "⚠️ **Lưu ý**: **App Vua Giải Trí 🎬📺** hiện đang trong giai đoạn **thử nghiệm** trên **TV Android, Android Box, điện thoại Android và iOS**. Thiết bị **ABI cũ (armeabi-v7a...)** có thể hơi giật lag, trong khi **ABI mới (arm64-v8a, x86_64...)** mang lại trải nghiệm mượt mà hơn. Ứng dụng **không viết bằng native**, nên một số thao tác điều hướng chưa tối ưu, nhưng **phát video vẫn ổn định**.\n\nỨng dụng chủ yếu dùng cho **học tập và nghiên cứu**, nội dung tổng hợp từ **nguồn miễn phí công khai trên Internet**. Một số nội dung có thể **không phù hợp với bạn**, hãy cân nhắc trước khi xem. Nội dung cũng có thể liên quan đến **chủ quyền biển đảo (Hoàng Sa và Trường Sa)** – xin tiếp cận thông tin một cách tỉnh táo.\n\n👉 **Hoàng Sa – Trường Sa là của Việt Nam.**",
   "contact": {
     "telegram": "https://t.me/vuagiaitriapp",
     "fanpage": ""

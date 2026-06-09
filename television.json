@@ -42,12 +42,12 @@
         "referer": "/vtv/vtv4show.php"
       },
       {
-        "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
-        "name": "VTV5 HD",
+        "id": "06c12f81-4e79-4f1d-8559-8c3dc8d912b2",
+        "name": "VTV6 HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
-        "m3u8": "https://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8",
-        "api": "/vtv/vtv52.php",
-        "referer": "/vtv5show.php"
+        "m3u8": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+        "api": "/vtv/vtv62.php",
+        "referer": "/vtv6show.php"
       },
       {
         "id": "19f26a5c-929e-4b81-954d-366036abbb4f",

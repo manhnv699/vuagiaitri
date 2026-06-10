@@ -50,6 +50,14 @@
         "referer": "/vtv6show.php"
       },
       {
+        "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
+        "name": "VTV5 HD",
+        "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/04/20/u7ef1d1c_vtv5-backup4d9f814ce70affcee71276b9047d99e2_296_168.webp",
+        "m3u8": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "api": "/vtv/vtv52.php",
+        "referer": "/vtv/vtv5show.php"
+      },      
+      {
         "id": "19f26a5c-929e-4b81-954d-366036abbb4f",
         "name": "VTV5 Tây Nam Bộ HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",

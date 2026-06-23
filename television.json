@@ -13,7 +13,7 @@
         "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
         "name": "VTV1 HD",
         "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
-        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
         "api": "/vtv/vtv12.php",
         "referer": "/vtv/vtv1show.php"
       },

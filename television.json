@@ -13,7 +13,7 @@
         "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
         "name": "VTV1 HD",
         "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
         "api": "/vtv/vtv12.php",
         "referer": "/vtv/vtv1show.php"
       },
@@ -21,7 +21,7 @@
         "id": "cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942",
         "name": "VTV2 HD",
         "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv2",
         "api": "/vtv/vtv22.php",
         "referer": "/vtv/vtv2show.php"
       },
@@ -29,7 +29,7 @@
         "id": "aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c",
         "name": "VTV3 HD",
         "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv3",
         "api": "/vtv/vtv32.php",
         "referer": "/vtv/vtv3show.php"
       },
@@ -37,7 +37,7 @@
         "id": "c9383b3c-c775-467e-901b-a651c1dfef9f",
         "name": "VTV4 HD",
         "image": "https://imageshack.com/a/img921/580/sFxfmH.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=9951",
         "api": "/vtv/vtv42.php",
         "referer": "/vtv/vtv4show.php"
       },
@@ -45,7 +45,7 @@
         "id": "06c12f81-4e79-4f1d-8559-8c3dc8d912b2",
         "name": "VTV6 HD",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2026/06/08/6gpks5ak_banner-dai-truyen-hinh_1267_712.webp",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv6",
         "api": "/vtv/vtv62.php",
         "referer": "/vtv6show.php"
       },
@@ -53,7 +53,7 @@
         "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
         "name": "VTV5 HD",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/04/20/u7ef1d1c_vtv5-backup4d9f814ce70affcee71276b9047d99e2_296_168.webp",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=110",
         "api": "/vtv/vtv52.php",
         "referer": "/vtv/vtv5show.php"
       },

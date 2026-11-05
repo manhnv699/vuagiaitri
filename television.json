@@ -13,7 +13,7 @@
         "id": "52099f0d-fbba-4e6d-8b4c-df0feaf578e8",
         "name": "VTV1 HD",
         "image": "https://imageshack.com/a/img924/3790/6CCHTf.jpg",
-        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=2",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://freem3u.xyz/api/live/play.m3u8?vid=2",
         "api": "/vtv/vtv12.php",
         "referer": "/vtv/vtv1show.php"
       },
@@ -21,7 +21,7 @@
         "id": "cb4dd2c1-503c-48d6-ba00-ecc1fd7b5942",
         "name": "VTV2 HD",
         "image": "https://imageshack.com/a/img922/4459/ZecNmW.jpg",
-        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv2",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv2",
         "api": "/vtv/vtv22.php",
         "referer": "/vtv/vtv2show.php"
       },
@@ -29,7 +29,7 @@
         "id": "aef79fd4-c185-4c68-8e7a-9a5e7c93ef8c",
         "name": "VTV3 HD",
         "image": "https://imageshack.com/a/img924/5821/oPa7ZO.jpg",
-        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv3",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv3",
         "api": "/vtv/vtv32.php",
         "referer": "/vtv/vtv3show.php"
       },
@@ -37,7 +37,7 @@
         "id": "c9383b3c-c775-467e-901b-a651c1dfef9f",
         "name": "VTV4 HD",
         "image": "https://imageshack.com/a/img921/580/sFxfmH.jpg",
-        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=9951",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv4",
         "api": "/vtv/vtv42.php",
         "referer": "/vtv/vtv4show.php"
       },
@@ -45,7 +45,7 @@
         "id": "06c12f81-4e79-4f1d-8559-8c3dc8d912b2",
         "name": "VTV6 HD",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_big_v4/2026/06/08/6gpks5ak_banner-dai-truyen-hinh_1267_712.webp",
-        "m3u8": "https://vmttv.dpdns.org/tv360/?id=vtv6",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv6",
         "api": "/vtv/vtv62.php",
         "referer": "/vtv6show.php"
       },
@@ -53,7 +53,7 @@
         "id": "07b09f50-e975-471a-b8b5-86867e6c6b23",
         "name": "VTV5 HD",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/04/20/u7ef1d1c_vtv5-backup4d9f814ce70affcee71276b9047d99e2_296_168.webp",
-        "m3u8": "https://freem3u.xyz/api/live/play.m3u8?vid=110",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://freem3u.xyz/api/live/play.m3u8?vid=110",
         "api": "/vtv/vtv52.php",
         "referer": "/vtv/vtv5show.php"
       },
@@ -61,7 +61,7 @@
         "id": "19f26a5c-929e-4b81-954d-366036abbb4f",
         "name": "VTV5 Tây Nam Bộ HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo",
         "api": "/vtv/vtv52.php",
         "referer": "/vtv5show.php"
       },
@@ -69,7 +69,7 @@
         "id": "4e315b06-4e75-44c3-aa02-ede3653b52cc",
         "name": "VTV5 Tây Nguyên HD",
         "image": "https://imageshack.com/a/img921/8820/MNdsLk.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen",
         "api": "/vtv/vtv52.php",
         "referer": "/vtv5show.php"
       },
@@ -77,7 +77,7 @@
         "id": "59875614-8872-4f86-a45b-9983068ee7ef",
         "name": "VTV7 HD",
         "image": "https://i.imgur.com/XwSaq8m.png",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv7",
         "api": "/vtv/vtv72.php",
         "referer": "/vtv/vtv7show.php"
       },
@@ -85,7 +85,7 @@
         "id": "b8a5931c-3723-4a47-9af6-0435d811990a",
         "name": "VTV8 HD",
         "image": "https://imageshack.com/a/img921/5741/BnDdlQ.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv8",
         "api": "/vtv/vtv82.php",
         "referer": "/vtv/vtv8show.php"
       },
@@ -93,7 +93,7 @@
         "id": "8277b8a7-c0af-4182-92a0-ac7d091b3df5",
         "name": "VTV9 HD",
         "image": "https://imageshack.com/a/img924/7716/PTu616.jpg",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv9",
         "api": "/vtv/vtv92.php",
         "referer": "/vtv/vtv9show.php"
       },
@@ -101,7 +101,7 @@
         "id": "66653680-a833-40e9-8b0e-a59677a3b395",
         "name": "VTV10 HD",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/03/30/z0ra7tps_banner-dai-truyen-hinh_296_168.webp",
-        "m3u8": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vmttv.dpdns.org/tv360/?id=vtv10",
         "api": "/vtv/vtv92.php",
         "referer": "/vtv/vtv9show.php"
       },
@@ -109,7 +109,7 @@
         "id": "60b14147-c306-493c-ba01-e672595b56a8",
         "name": "VIETNAM TODAY",
         "image": "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/09/05/apb3bs61_banner1f7e02f487e949d751b54c5ff6a18e9dd_296_168.webp",
-        "m3u8": "https://vips-livecdn.fptplay.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://freem3u.xyz/api/live/play.m3u8?vid=9951",
         "api": "/vtv/vtv92.php",
         "referer": "/vtv/vtv9show.php"
       },
@@ -236,5 +236,345 @@
       "name": "Địa phương",
       "type": 4
     }
-  ]
+  ],
+  "phimTruyen": {
+    "name": "Phim Truyện",
+    "items": [
+      {
+        "name": "Đèn Âm Hồn: Người Con Gái Nam Xương",
+        "image": "https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Làm Giàu Với Ma (Betting With Ghost)",
+        "image": "https://haniff.vn/wp-content/uploads/2024/10/Lam-giau-voi-ma-2.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s4.phim1280.tv/20250323/KmdatGKe/3000kb/hls/index.m3u8"
+      },
+      {
+        "name": "Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản lồng tiếng)",
+        "image": "https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Ngày Xưa Có Một Chuyện Tình",
+        "image": "https://assets.glxplay.io/images/w700/title/ngay-xua-co-mot-chuyen-tinh_web_backdrop_8b7a5b8cbb5fe245d3a6f7aea524c796.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20250901/w8LN0LND/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Bộ Tứ Báo Thủ",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2025/08/28/bo-tu-bao-thu-fpt-play-1756374565016_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20250901/2RZvePPZ/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Mưa Trên Cánh Bướm",
+        "image": "https://i.imgur.com/q05fNtW.png",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20250918/48nrktLm/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Thám Tử Kiên: Kỳ Án Không Đầu",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2025/09/29/tham-tu-kien-ky-an-khong-dau-fpt-play-1759139646462_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20251010/86AEDncn/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Mưa Đỏ",
+        "image": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/112025/1_20251116070652.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20251118/obSmOjv7/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Mang Mẹ Đi Bỏ",
+        "image": "https://hnm.1cdn.vn/thumbs/600x315/2025/05/08/mmdb_poster_first-look_2000x2500px.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20251214/2ASHLy8K/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Trái Tim Què Quặt",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2025/12/26/trai-tim-que-quat-fpt-play-1766744170691_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20251228/0HQf0tP2/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Làm Giàu Với Ma Phần 2: Cuộc Chiến Hột Xoàn",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2025/12/30/lam-giau-voi-ma-cuoc-chien-hot-xoan-fpt-play-1767066672824_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260101/4Hxke0cC/index.m3u8"
+      },
+      {
+        "name": "Quỷ Nhập Tràng",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/27/quy-nhap-trang-fpt-play-1769508575571_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260129/HDz8Fu0F/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Tử Chiến Trên Không",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/23/tu-chien-tren-khong-fpt-play-1769164011330_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/72x1ns/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập 1",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73gr0i/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập 2",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73k35o/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập 3",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73os1q/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập 4",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73s4u6/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập 5",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73txdq/playlist.m3u8"
+      },
+      {
+        "name": "Hùng Long Phong Bá Phần 4 - Tập Cuối",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/02/11/hung-long-phong-ba-4-fpt-play-1770804850859_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73vrdu/playlist.m3u8"
+      },
+      {
+        "name": "Thế Hệ Kỳ Tích",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Th%E1%BA%BF%20H%E1%BB%87%20K%E1%BB%B3%20T%C3%ADch.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/745t9a/playlist.m3u8"
+      },
+      {
+        "name": "Tay Anh Giữ Một Vì Sao",
+        "image": "https://thegioidienanh.vn/stores/news_dataimages/2025/092025/14/13/in_social/tay-anh-giu-mot-vi-sao-payoff-poster-social-khoi-chieu-0310202520250914134014.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260101/CqU7YVpt/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Truy Tìm Long Diên Hương",
+        "image": "https://cdn-images.vtv.vn/zoom/554_346/66349b6076cb4dee98746cf1/2025/09/19/truy-tim-long-dien-huong-67756442926310209483416-92025497027105625698228.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/74h9mw/playlist.m3u8"
+      },
+      {
+        "name": "Út Lan: Oán Linh Giữ Của",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/ut-lan-oan-linh-giu-cua-fpt-play-1773395168032_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260320/I7klQsjJ/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Khế Ước Bán Dâu",
+        "image": "https://tintuc-divineshop.cdn.vccloud.vn/wp-content/uploads/2025/08/164142635_khe-uoc-ban-dau.webp",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260118/tdyKqxYZ/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Thiên Đường Máu",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/03/13/thien-duong-mau-fpt-play-1773396128871_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Cục Vàng Của Ngoại",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/03/27/cuc-vang-cua-ngoai-fpt-play-1774595783778_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260403/6UwV8LAv/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Nhà Mình Đi Thôi",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8"
+      },
+      {
+        "name": "Cuốc Xe Âm Phủ - Tập 1",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260502/89qXv3Fa/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Cuốc Xe Âm Phủ - Tập 2",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260503/Lp2p18eb/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Cuốc Xe Âm Phủ - Tập 3",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260504/9JB48ezG/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Cuốc Xe Âm Phủ - Tập 4",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260504/xNE4czZl/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Cuốc Xe Âm Phủ - Tập Cuối",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/30/cuoc-xe-am-phu-fpt-play-1777541165464_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260505/6REaXK8f/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Nhà Hai Chủ",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-hai-chu-fpt-play-1777448554178_Landscape.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260505/YnFXHB6A/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Thỏ Ơi",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/Th%E1%BB%8F%20%C6%A0i.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260531/mazEQT6f/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Hoàng Tử Quỷ",
+        "image": "https://cdn.galaxycine.vn/media/2025/11/25/hoang-tu-quy-750_1764065943548.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260615/qtiKqvFo/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Báu Vật Trời Cho",
+        "image": "https://img-zlr1.tv360.vn/image1/2026/06/03/22/bc4677df/bc4677df-dbcd-4a57-844b-390414aa1778_640_360.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260617/QgEs8NDH/index.m3u8"
+      },
+      {
+        "name": "Cưới Vợ Cho Cha",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cuoivochocha.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260711/ATJuS0IV/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Tài",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/07/27/tai20261920x1080s_1785141290941.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260729/UgOYpPkC/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Quỷ Nhập Tràng 2",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/quy-nhap-trang-2.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260820/QT327Pkh/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Anh Hùng",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/anh-hung.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260821/1tcAZTSo/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Con Kể Ba Nghe",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/con-ke-ba-nghe.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260828/lfE5hjEB/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (lồng tiếng)",
+        "image": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/NWyYlI26oZ0/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 1",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/72av32/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 2",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/72nhy6/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 3",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73bg84/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 4",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73gpe4/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 5",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/73uq6q/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 6",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://vip.opstream90.com/20260219/25424_5534491f/3000k/hls/mixed.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 7",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/74da00/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 8",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260306/za4nlnWl/index.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 9",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://s6.kkphimplayer6.com/20260312/kzmqZ1YJ/index.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 10",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/757w6u/playlist.m3u8"
+      },
+      {
+        "name": "Oshi No Ko Phần 3 - Tập 11",
+        "image": "https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/75uhgc/playlist.m3u8"
+      },
+      {
+        "name": "Mùi Phở",
+        "image": "https://vntravel.org.vn/zoom-share/1200x630/uploads/images/2026/01/21/mp2-1768933054.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260901/EHFkQ2Wy/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Hẹn Em Ngày Nhật Thực",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/09/11/henemngaynhatthucmeetmeattheeclipse20261920x1080s_1789101634921.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260910/Y3IBebUU/index.m3u8"
+      },
+      {
+        "name": "Conan Movie 29: Thiên thần sa ngã trên sa lộ (Vietsub)",
+        "image": "https://media.vov.vn/sites/default/files/styles/large/public/2026-07/conan-2.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Song Hỷ Lâm Nguy",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/09/18/songhylamnguybghd_1789727472746.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://a.kvp726.com/20260919/pV94M4PR/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Ma Xó",
+        "image": "https://img-zlr1.tv360.vn/image1/2026/09/16/15/1789548094949/f99e2210649c_640_360.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/lDgA-kgokls/playlist.m3u8"
+      },
+      {
+        "name": "Phá Đám: Sinh Nhật Mẹ",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/09/30/phadamsinhnhatmerebirthday20251920x1080_1790760696285.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/I43eXt8DNJE/playlist.m3u8"
+      },
+      {
+        "name": "Bẫy Tiền: Cú Lừa Tiền Tỉ",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/10/12/baytienthefataldealz20261920x10801_1791800464791.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://a.kvp726.com/20261013/cbcYptZk/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Quỷ Bắt Hồn",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/10/23/quy-bat-hon20261920x1080s_1792750378911.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://a.kvp726.com/20261026/2clev3ZX/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Dưới Đáy Hồ",
+        "image": "https://images.fptplay53.net/media/OTT_ECS/2026/10/23/duoidayhothelake20251920x1080s_1792750430617.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://a.kvp726.com/20261030/PhvUF3XB/3500kb/hls/index.m3u8"
+      },
+      {
+        "name": "Phí Phông: Quỷ Máu Rừng Thiêng",
+        "image": "https://img-evg1.tv360.vn/image1/2026/10/29/11/5ae7b7b5/5ae7b7b5-bab9-4be9-9886-22145e5d4f84_640_360.jpg",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/h15TO_BzvGk/playlist.m3u8"
+      },
+      {
+        "name": "Kế Hoạch CM12 - Tập 1",
+        "image": "https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261030/2026103005/5b5e9ab9-d1f0-49d0-8ae4-6fea127f65ea-1-2560x1440.jpg&width=1080",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/rYCXyz8f0fw/playlist.m3u8"
+      },
+      {
+        "name": "Kế Hoạch CM12 - Tập 2",
+        "image": "https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261102/2026110205/e7116d25-2a24-42a4-b6ec-ba4ca85cd16f-2-2560x1440.jpg&width=1080",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/6AwEiNEKeWM/playlist.m3u8"
+      },
+      {
+        "name": "Kế Hoạch CM12 - Tập 3",
+        "image": "https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/content/20261103/2026110305/6eba0c00-652f-40b2-9f8e-2e0be0ab6e89-3-2560x1440.jpg&width=1080",
+        "m3u8": "https://vuagiaitri.site/api/general/public/tv/playlist.m3u8?origin=https://rumble.com/hls-vod/aZ6ODFgg1L8/playlist.m3u8"
+      }
+    ]
+  }
 }
